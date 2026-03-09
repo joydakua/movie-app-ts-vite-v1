@@ -1,5 +1,5 @@
 {
-  "name": "movie-app-ts-vite--v1",
+  "name": "movie-app-ts-vite-v1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,9 +13,5 @@
     "sass-embedded": "^1.97.3",
     "typescript": "~5.9.3",
     "vite": "^7.3.1"
-  },
-  "dependencies": {
-    "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.8"
   }
 }
