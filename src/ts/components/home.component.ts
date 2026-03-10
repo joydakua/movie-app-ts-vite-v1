@@ -2,7 +2,7 @@ import HomeStore from "../store/home.store";
 
 const HomeComponent = (): string => {
     return `
-        <div class="input-group input-group-lg">
+         <div class="input-group input-group-lg">
             <input type="text" class="form-control" id="search-input" value="${HomeStore.searchInputValue}" placeholder="Search movies..." aria-label="Search movies" />
             <button class="btn btn-primary" type="button" id="search-btn" title="Search">
                 <i class="bi bi-search"></i>
