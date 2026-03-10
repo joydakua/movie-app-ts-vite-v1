@@ -1,1 +1,1 @@
-export declare type TAlerts = "input" | "danger" | "warning";
+export declare type TAlerts = "info" | "danger" | "warning";
