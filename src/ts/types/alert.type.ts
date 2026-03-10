@@ -1,0 +1,1 @@
+export declare type TAlerts = "input" | "danger" | "warning";
